@@ -11,11 +11,3 @@ The Medical AI Generated Content Detection Dataset is derived from the [HealthCa
 ## Dataset License
 
 The Medical AI Generated Content Detection Dataset follows the license of the [HealthCareMagic-100k](https://github.com/Kent0n-Li/ChatDoctor/tree/main) dataset, which is released under the Apache 2.0 License. Please refer to the license text of the original dataset for more detailed information.
-
-## Contact
-
-If you have any questions, suggestions, or feedback regarding the Medical AI Generated Content Detection Dataset, please feel free to contact us:
-
-- Email: [wangruiyuan@mail.dlut.edu.cn](mailto:wangruiyuan@mail.dlut.edu.cn)
-
-We greatly appreciate your contributions and usage of the Medical AI Generated Content Detection Dataset!
