@@ -1,4 +1,4 @@
-# Medical AI Generated Content Detection Dataset
+# Medical AI Generated Text Detection Dataset from Multi-models and Multi-Methods
 
 ## Dataset Description
 
